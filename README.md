@@ -68,7 +68,6 @@ _a_)
 
 * MinorCPU: 
    * Line 12 : sim_seconds = 0.000039 # Number of seconds simulated
-
 * TimingSimpleCPU:  
    * Line 12 : sim_seconds = 0.000046 # Number of seconds simulated
 
